@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/bin/nasm -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -f elf32 -o CMakeFiles/uiaos-kernel.dir/src/multiboot2.asm.o /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/multiboot2.asm",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/multiboot2.asm"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/kernel.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/kernel.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/kernel.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/gdt.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/gdt.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/gdt.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/bin/nasm -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -f elf32 -o CMakeFiles/uiaos-kernel.dir/src/arch/i386/gdt_flush.asm.o /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/arch/i386/gdt_flush.asm",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/arch/i386/gdt_flush.asm"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/bin/nasm -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -f elf32 -o CMakeFiles/uiaos-kernel.dir/src/arch/i386/isr.asm.o /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/arch/i386/isr.asm",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/arch/i386/isr.asm"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/bin/nasm -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -f elf32 -o CMakeFiles/uiaos-kernel.dir/src/arch/i386/irq.asm.o /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/arch/i386/irq.asm",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/arch/i386/irq.asm"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/bin/nasm -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -f elf32 -o CMakeFiles/uiaos-kernel.dir/src/arch/i386/idt_load.asm.o /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/arch/i386/idt_load.asm",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/arch/i386/idt_load.asm"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/keyboard.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/keyboard.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/keyboard.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/terminal.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/terminal.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/terminal.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/idt.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/idt.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/idt.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/isr.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/isr.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/isr.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/irq.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/irq.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/irq.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/pic.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/pic.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/pic.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/memory/malloc.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/memory/malloc.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/memory/malloc.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/memory/memory.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/memory/memory.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/memory/memory.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-g++ -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -g -Wno-unused-variable -Wno-unused-parameter -std=gnu++20 -o CMakeFiles/uiaos-kernel.dir/src/kernel_operand.cpp.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/kernel_operand.cpp",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/kernel_operand.cpp"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/pit.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/pit.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/pit.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/song.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/song.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/song.c"
+},
+{
+  "directory": "/workspaces/2026-ikt218-osdev/build/solo_OSDev_16",
+  "command": "/usr/local/bin/i686-elf-gcc -I/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/include -g -Wall -Wextra -nostdinc -nostdlib -fno-builtin -fno-stack-protector -fno-stack-check -fno-lto -fPIE -m32 -march=i386 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -Wno-main -g -Wno-unused-variable -Wno-unused-parameter -std=gnu99 -o CMakeFiles/uiaos-kernel.dir/src/system_monitor.c.o -c /workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/system_monitor.c",
+  "file": "/workspaces/2026-ikt218-osdev/src/solo_OSDev_16/src/system_monitor.c"
+}
+]
